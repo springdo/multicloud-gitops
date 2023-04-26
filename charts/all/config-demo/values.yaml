@@ -7,6 +7,9 @@ configdemosecret:
   key: secret/data/global/config-demo
 
 
+myindivsecretsecret:
+  key: secret/data/global/mysecret/foo
+
 mysecretsecret:
   key: secret/data/global/mysecret
 
